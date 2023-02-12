@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### Where I'm at: https://dzurgon.com 👾
 ![views](https://komarev.com/ghpvc/?username=dzurgon)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzurgon&theme=radical)
 <!--
 **dzurgon/dzurgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
