@@ -1,6 +1,5 @@
 ### Hi there 👋
-### Where I'm at: https://dzurgon.com 👾
-![views](https://komarev.com/ghpvc/?username=dzurgon)
+
 <!--
 **dzurgon/dzurgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
