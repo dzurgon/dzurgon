@@ -2,9 +2,9 @@
 
 Currently working on a home server and self-hosting cool projects! Please reach me at <ben> {at} /gondzur/ &dot& #net#
 
-Personal Website: 
+Personal Website: https://gondzur.net
 
-Project site:
+Project site: https://pustl.com
 
 
 <!--
