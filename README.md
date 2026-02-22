@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Currently working on a home server and self-hosting cool projects! Please reach me at <ben> {at} /gondzur/ &dot& #net#
+
+Personal Website: 
+
+Project site:
+
+
 <!--
 **dzurgon/dzurgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
